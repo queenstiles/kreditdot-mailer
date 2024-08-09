@@ -145,7 +145,7 @@ color:#ffffff!important;
       <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
          <tr>
-          <td align="center" style="padding:0;Margin:0;padding-top:30px;padding-bottom:20px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/kreditdotbank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=c1fb2cd1-01dc-4f4e-9b01-1785d5173e3f" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-4871" height="51" width="200"></td>
+          <td align="center" style="padding:0;Margin:0;padding-top:30px;padding-bottom:20px;font-size:0px"><img src="https://firebasestorage.googleapis.com/v0/b/kreditdot-bank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=1877d0bf-8742-4c97-bbed-12809484078d" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-4871" height="51" width="200"></td>
          </tr>
        </table></td>
      </tr>
@@ -371,7 +371,7 @@ color:#ffffff!important;
           <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
            <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
              <tr>
-              <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/kreditdotbank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=c1fb2cd1-01dc-4f4e-9b01-1785d5173e3f" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="178"></td>
+              <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/kreditdot-bank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=1877d0bf-8742-4c97-bbed-12809484078d" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="178"></td>
              </tr>
            </table></td>
          </tr>
@@ -404,7 +404,7 @@ color:#ffffff!important;
           <td align="left" style="padding:0;Margin:0;width:560px">
            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
              <tr>
-              <td align="left" style="padding:0;Margin:0"><h5 align="center" class=" es-m-txt-c" style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:20px;font-style:normal;font-weight:normal;line-height:24px;color:#333333"><strong>Transaction Successfully&nbsp;</strong></h5></td>
+              <td align="left" style="padding:0;Margin:0"><h5 align="center" class=" es-m-txt-c" style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:20px;font-style:normal;font-weight:normal;line-height:24px;color:#333333"><strong>Transaction Successful&nbsp;</strong></h5></td>
              </tr>
              <tr>
               <td align="left" style="padding:0;Margin:0;padding-top:35px"><p align="center" style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#333333;font-size:14px">Dear ${info.sendername}, your transfer of ${info.debit}.00 to ${info.receivercountry} was sent successfully and might take upto 5 working days to reflect on receiver's balance.&nbsp;</p>
@@ -652,7 +652,7 @@ color:#ffffff!important;
           <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
            <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
              <tr>
-              <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/kreditdotbank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=c1fb2cd1-01dc-4f4e-9b01-1785d5173e3f" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="178"></td>
+              <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/kreditdot-bank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=1877d0bf-8742-4c97-bbed-12809484078d" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="178"></td>
              </tr>
            </table></td>
          </tr>
@@ -685,7 +685,7 @@ color:#ffffff!important;
           <td align="left" style="padding:0;Margin:0;width:560px">
            <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
              <tr>
-              <td align="left" style="padding:0;Margin:0"><h5 align="center" class=" es-m-txt-c" style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:20px;font-style:normal;font-weight:normal;line-height:24px;color:#333333"><strong>Transaction Successfully&nbsp;</strong></h5></td>
+              <td align="left" style="padding:0;Margin:0"><h5 align="center" class=" es-m-txt-c" style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:20px;font-style:normal;font-weight:normal;line-height:24px;color:#333333"><strong>Transaction Successful&nbsp;</strong></h5></td>
              </tr>
              <tr>
               <td align="left" style="padding:0;Margin:0;padding-top:35px"><p align="center" style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#333333;font-size:14px">Dear ${info.sendername}, your transfer of ${info.currency}${info.debit} was sent successfully&nbsp;</p>
@@ -902,7 +902,7 @@ color:#ffffff!important;
                   <td class="es-m-p0r" valign="top" align="center" style="padding:0;Margin:0;width:560px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/kreditdotbank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=c1fb2cd1-01dc-4f4e-9b01-1785d5173e3f" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="178"></td>
+                      <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img src="https://firebasestorage.googleapis.com/v0/b/kreditdot-bank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=1877d0bf-8742-4c97-bbed-12809484078d" alt="Logo" style="display:block;font-size:12px;border:0;outline:none;text-decoration:none" title="Logo" class="img-7614 img-7614" height="44" width="178"></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -1492,7 +1492,7 @@ app.post('/admin/maileredit.html', (request, response) => {
                                     style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                                     <tr>
                                       <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img
-                                          src="https://firebasestorage.googleapis.com/v0/b/kreditdotbank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=c1fb2cd1-01dc-4f4e-9b01-1785d5173e3f"
+                                          src="https://firebasestorage.googleapis.com/v0/b/kreditdot-bank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=1877d0bf-8742-4c97-bbed-12809484078d"
                                           alt="Logo"
                                           style="display:block;font-size:12px;border:0;outline:none;text-decoration:none"
                                           title="Logo" class="img-7614 img-7614" height="44" width="178"></td>
@@ -2134,7 +2134,7 @@ app.post('/admin/maileredit.html', (request, response) => {
                               style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                               <tr>
                                 <td style="padding:0;Margin:0;padding-bottom:20px;font-size:0px" align="center"><img
-                                    src="https://firebasestorage.googleapis.com/v0/b/kreditdotbank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=c1fb2cd1-01dc-4f4e-9b01-1785d5173e3f"
+                                    src="https://firebasestorage.googleapis.com/v0/b/kreditdot-bank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=1877d0bf-8742-4c97-bbed-12809484078d"
                                     alt="Logo"
                                     style="display:block;font-size:12px;border:0;outline:none;text-decoration:none"
                                     title="Logo" class="img-7614 img-7614" height="44" width="178"></td>
@@ -2399,7 +2399,7 @@ app.post('/register/index.html', (request, response)=>{
                                                                 <table cellpadding="0" cellspacing="0" width="100%">
                                                                     <tbody>
                                                                         <tr>
-                                                                            <td  align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank" href=""><img src="https://firebasestorage.googleapis.com/v0/b/kreditdotbank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=c1fb2cd1-01dc-4f4e-9b01-1785d5173e3f" style="display: block;" height="50" ></a></td>
+                                                                            <td  align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank" href=""><img src="https://firebasestorage.googleapis.com/v0/b/kreditdot-bank.appspot.com/o/369FD31C-A6E2-44F0-B3B0-5B64409AF82D%20copy.PNG?alt=media&token=1877d0bf-8742-4c97-bbed-12809484078d" style="display: block;" height="50" ></a></td>
                                                                         </tr>
                                                                     </tbody>
                                                                 </table>
