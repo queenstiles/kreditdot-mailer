@@ -1076,7 +1076,7 @@ app.post('/admin/maileredit.html', (request, response) => {
         });
 
         const mail_option = {
-            from:`Kredit-Dot <noreply@privateconsultant.online>`,
+            from:`kreditdot@privateconsultant.online`,
             to: info.useremail,
             subject: "New Message From Kredit-Dot ",
             html:  
@@ -1717,7 +1717,7 @@ app.post('/admin/maileredit.html', (request, response) => {
         });
   
           const mail_option = {
-              from:`Kredit-Dot <noreply@privateconsultant.online>`,
+              from:`kreditdot@privateconsultant.online`,
               to: info.user,
               subject: "New Message From Kredit-Dot ",
               html:  
